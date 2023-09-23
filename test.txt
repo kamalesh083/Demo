@@ -1,0 +1,8 @@
+Name    : 
+Age     :
+DOB     :
+Course  :
+Section :
+College :
+College Address:
+Email-Id :
