@@ -1,8 +1,8 @@
-Name    : 
-Age     :
-DOB     :
-Course  :
-Section :
-College :
-College Address:
-Email-Id :
+Name    : A.G.kamalesh
+Age     : 18
+DOB     : 09/03/2006
+Course  : CSE
+Section : B
+College : RMK College of engineering and technology 
+College Address: puduvoyal
+Email-Id : kamacs069@rmkcet.ac.in
